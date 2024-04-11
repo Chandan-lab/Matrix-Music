@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="Most Popular"
+        android:id="@+id/popular"
+        />
+
+    <item android:title="Playlists"
+        android:id="@+id/playlist"
+        />
+<item android:id="@+id/my_profile"
+    android:title="My Profile"/>
+
+    <item android:id="@+id/forget_password"
+    android:title="Forget Password"/>
+
+    <item android:title="Logout"
+        android:id="@+id/logout"
+        />
+
+</menu>

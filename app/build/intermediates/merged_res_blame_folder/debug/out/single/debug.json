@@ -1,0 +1,750 @@
+[
+    {
+        "merged": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-merged_res-5:/drawable-hdpi_music_note.png.flat",
+        "source": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-pngs-1:/drawable-hdpi/music_note.png"
+    },
+    {
+        "merged": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-merged_res-5:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-main-7:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-merged_res-5:/drawable-hdpi_album_black.png.flat",
+        "source": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-pngs-1:/drawable-hdpi/album_black.png"
+    },
+    {
+        "merged": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-merged_res-5:/drawable-hdpi_search_white_thick.png.flat",
+        "source": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-pngs-1:/drawable-hdpi/search_white_thick.png"
+    },
+    {
+        "merged": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-merged_res-5:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-main-7:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-merged_res-5:/drawable-xxhdpi_music_library.png.flat",
+        "source": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-pngs-1:/drawable-xxhdpi/music_library.png"
+    },
+    {
+        "merged": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-merged_res-5:/drawable-hdpi_app_laucher_bg.png.flat",
+        "source": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-pngs-1:/drawable-hdpi/app_laucher_bg.png"
+    },
+    {
+        "merged": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-merged_res-5:/drawable-hdpi_edit_pen_white.png.flat",
+        "source": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-pngs-1:/drawable-hdpi/edit_pen_white.png"
+    },
+    {
+        "merged": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-merged_res-5:/drawable-mdpi_album_white.png.flat",
+        "source": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-pngs-1:/drawable-mdpi/album_white.png"
+    },
+    {
+        "merged": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-merged_res-5:/drawable-mdpi_music_queue_white.png.flat",
+        "source": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-pngs-1:/drawable-mdpi/music_queue_white.png"
+    },
+    {
+        "merged": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-merged_res-5:/drawable_e2.png.flat",
+        "source": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-main-7:/drawable/e2.png"
+    },
+    {
+        "merged": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-merged_res-5:/drawable-hdpi_play_arrow_white.png.flat",
+        "source": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-pngs-1:/drawable-hdpi/play_arrow_white.png"
+    },
+    {
+        "merged": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-merged_res-5:/drawable-ldpi_add_photo.png.flat",
+        "source": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-pngs-1:/drawable-ldpi/add_photo.png"
+    },
+    {
+        "merged": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-merged_res-5:/drawable-xxxhdpi_add.png.flat",
+        "source": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-pngs-1:/drawable-xxxhdpi/add.png"
+    },
+    {
+        "merged": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-merged_res-5:/drawable-xxhdpi_vert_three_dot.png.flat",
+        "source": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-pngs-1:/drawable-xxhdpi/vert_three_dot.png"
+    },
+    {
+        "merged": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-merged_res-5:/drawable-anydpi-v21_email_small.xml.flat",
+        "source": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-pngs-1:/drawable-anydpi-v21/email_small.xml"
+    },
+    {
+        "merged": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-merged_res-5:/drawable-hdpi_arrow_back.png.flat",
+        "source": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-pngs-1:/drawable-hdpi/arrow_back.png"
+    },
+    {
+        "merged": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-merged_res-5:/drawable-mdpi_edit_pen_white.png.flat",
+        "source": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-pngs-1:/drawable-mdpi/edit_pen_white.png"
+    },
+    {
+        "merged": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-merged_res-5:/drawable-xxhdpi_music_queue_white.png.flat",
+        "source": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-pngs-1:/drawable-xxhdpi/music_queue_white.png"
+    },
+    {
+        "merged": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-merged_res-5:/drawable-mdpi_app_laucher_bg.png.flat",
+        "source": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-pngs-1:/drawable-mdpi/app_laucher_bg.png"
+    },
+    {
+        "merged": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-merged_res-5:/drawable-xxxhdpi_lock_black.png.flat",
+        "source": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-pngs-1:/drawable-xxxhdpi/lock_black.png"
+    },
+    {
+        "merged": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-merged_res-5:/drawable-ldpi_album_black.png.flat",
+        "source": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-pngs-1:/drawable-ldpi/album_black.png"
+    },
+    {
+        "merged": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-merged_res-5:/drawable-xxhdpi_lock_black.png.flat",
+        "source": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-pngs-1:/drawable-xxhdpi/lock_black.png"
+    },
+    {
+        "merged": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-merged_res-5:/layout_activity_upload_song.xml.flat",
+        "source": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-main-7:/layout/activity_upload_song.xml"
+    },
+    {
+        "merged": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-merged_res-5:/drawable-xhdpi_ic_exit_to_app_24dp.png.flat",
+        "source": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-pngs-1:/drawable-xhdpi/ic_exit_to_app_24dp.png"
+    },
+    {
+        "merged": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-merged_res-5:/layout_activity_register.xml.flat",
+        "source": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-main-7:/layout/activity_register.xml"
+    },
+    {
+        "merged": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-merged_res-5:/drawable-xxxhdpi_email_small.png.flat",
+        "source": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-pngs-1:/drawable-xxxhdpi/email_small.png"
+    },
+    {
+        "merged": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-merged_res-5:/drawable-mdpi_email_small.png.flat",
+        "source": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-pngs-1:/drawable-mdpi/email_small.png"
+    },
+    {
+        "merged": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-merged_res-5:/drawable-mdpi_lock_black.png.flat",
+        "source": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-pngs-1:/drawable-mdpi/lock_black.png"
+    },
+    {
+        "merged": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-merged_res-5:/drawable-xxxhdpi_check_black.png.flat",
+        "source": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-pngs-1:/drawable-xxxhdpi/check_black.png"
+    },
+    {
+        "merged": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-merged_res-5:/drawable-mdpi_arrow_back.png.flat",
+        "source": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-pngs-1:/drawable-mdpi/arrow_back.png"
+    },
+    {
+        "merged": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-merged_res-5:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-main-7:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-merged_res-5:/drawable-xxxhdpi_vert_three_dot.png.flat",
+        "source": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-pngs-1:/drawable-xxxhdpi/vert_three_dot.png"
+    },
+    {
+        "merged": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-merged_res-5:/drawable-anydpi-v21_album_black.xml.flat",
+        "source": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-pngs-1:/drawable-anydpi-v21/album_black.xml"
+    },
+    {
+        "merged": "com.matrix.music.app-merged_res-5:/layout_activity_song_list.xml.flat",
+        "source": "com.matrix.music.app-main-7:/layout/activity_song_list.xml"
+    },
+    {
+        "merged": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-merged_res-5:/drawable-xxhdpi_check_black.png.flat",
+        "source": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-pngs-1:/drawable-xxhdpi/check_black.png"
+    },
+    {
+        "merged": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-merged_res-5:/drawable-hdpi_lock_black.png.flat",
+        "source": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-pngs-1:/drawable-hdpi/lock_black.png"
+    },
+    {
+        "merged": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-merged_res-5:/drawable-xxhdpi_music_note.png.flat",
+        "source": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-pngs-1:/drawable-xxhdpi/music_note.png"
+    },
+    {
+        "merged": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-merged_res-5:/drawable_button_layout.xml.flat",
+        "source": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-main-7:/drawable/button_layout.xml"
+    },
+    {
+        "merged": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-merged_res-5:/drawable-mdpi_music_note.png.flat",
+        "source": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-pngs-1:/drawable-mdpi/music_note.png"
+    },
+    {
+        "merged": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-merged_res-5:/drawable-xxhdpi_arrow_back.png.flat",
+        "source": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-pngs-1:/drawable-xxhdpi/arrow_back.png"
+    },
+    {
+        "merged": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-merged_res-5:/drawable-xxxhdpi_album_white.png.flat",
+        "source": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-pngs-1:/drawable-xxxhdpi/album_white.png"
+    },
+    {
+        "merged": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-merged_res-5:/drawable-mdpi_check_black.png.flat",
+        "source": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-pngs-1:/drawable-mdpi/check_black.png"
+    },
+    {
+        "merged": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-merged_res-5:/drawable-ldpi_email_small.png.flat",
+        "source": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-pngs-1:/drawable-ldpi/email_small.png"
+    },
+    {
+        "merged": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-merged_res-5:/drawable-anydpi-v21_play_arrow_white.xml.flat",
+        "source": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-pngs-1:/drawable-anydpi-v21/play_arrow_white.xml"
+    },
+    {
+        "merged": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-merged_res-5:/drawable-xhdpi_share_button.png.flat",
+        "source": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-pngs-1:/drawable-xhdpi/share_button.png"
+    },
+    {
+        "merged": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-merged_res-5:/drawable-mdpi_music_library.png.flat",
+        "source": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-pngs-1:/drawable-mdpi/music_library.png"
+    },
+    {
+        "merged": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-merged_res-5:/layout_activity_song_list.xml.flat",
+        "source": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-main-7:/layout/activity_song_list.xml"
+    },
+    {
+        "merged": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-merged_res-5:/drawable-hdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-pngs-1:/drawable-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-merged_res-5:/drawable-xxxhdpi_share_button.png.flat",
+        "source": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-pngs-1:/drawable-xxxhdpi/share_button.png"
+    },
+    {
+        "merged": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-merged_res-5:/drawable-ldpi_app_laucher_bg.png.flat",
+        "source": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-pngs-1:/drawable-ldpi/app_laucher_bg.png"
+    },
+    {
+        "merged": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-merged_res-5:/drawable-ldpi_edit_pen_white.png.flat",
+        "source": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-pngs-1:/drawable-ldpi/edit_pen_white.png"
+    },
+    {
+        "merged": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-merged_res-5:/drawable-anydpi-v21_ic_launcher_foreground.xml.flat",
+        "source": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-pngs-1:/drawable-anydpi-v21/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-merged_res-5:/drawable-mdpi_search_white_thick.png.flat",
+        "source": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-pngs-1:/drawable-mdpi/search_white_thick.png"
+    },
+    {
+        "merged": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-merged_res-5:/drawable-hdpi_cloud_upload_white.png.flat",
+        "source": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-pngs-1:/drawable-hdpi/cloud_upload_white.png"
+    },
+    {
+        "merged": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-merged_res-5:/drawable-xxxhdpi_search_white_thick.png.flat",
+        "source": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-pngs-1:/drawable-xxxhdpi/search_white_thick.png"
+    },
+    {
+        "merged": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-merged_res-5:/drawable-mdpi_add_photo.png.flat",
+        "source": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-pngs-1:/drawable-mdpi/add_photo.png"
+    },
+    {
+        "merged": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-merged_res-5:/drawable-ldpi_music_note.png.flat",
+        "source": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-pngs-1:/drawable-ldpi/music_note.png"
+    },
+    {
+        "merged": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-merged_res-5:/drawable-xxhdpi_album_white.png.flat",
+        "source": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-pngs-1:/drawable-xxhdpi/album_white.png"
+    },
+    {
+        "merged": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-merged_res-5:/drawable-anydpi-v21_album_white.xml.flat",
+        "source": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-pngs-1:/drawable-anydpi-v21/album_white.xml"
+    },
+    {
+        "merged": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-merged_res-5:/drawable_gradient_drawable.xml.flat",
+        "source": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-main-7:/drawable/gradient_drawable.xml"
+    },
+    {
+        "merged": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-merged_res-5:/drawable-mdpi_add.png.flat",
+        "source": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-pngs-1:/drawable-mdpi/add.png"
+    },
+    {
+        "merged": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-merged_res-5:/drawable-ldpi_music_library.png.flat",
+        "source": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-pngs-1:/drawable-ldpi/music_library.png"
+    },
+    {
+        "merged": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-merged_res-5:/drawable_edit_text_layout.xml.flat",
+        "source": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-main-7:/drawable/edit_text_layout.xml"
+    },
+    {
+        "merged": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-merged_res-5:/layout_songs_list_layout.xml.flat",
+        "source": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-main-7:/layout/songs_list_layout.xml"
+    },
+    {
+        "merged": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-merged_res-5:/drawable-ldpi_album_white.png.flat",
+        "source": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-pngs-1:/drawable-ldpi/album_white.png"
+    },
+    {
+        "merged": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-merged_res-5:/drawable-anydpi-v21_add_photo.xml.flat",
+        "source": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-pngs-1:/drawable-anydpi-v21/add_photo.xml"
+    },
+    {
+        "merged": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-merged_res-5:/drawable-hdpi_ic_exit_to_app_24dp.png.flat",
+        "source": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-pngs-1:/drawable-hdpi/ic_exit_to_app_24dp.png"
+    },
+    {
+        "merged": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-merged_res-5:/drawable-mdpi_play_arrow_white.png.flat",
+        "source": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-pngs-1:/drawable-mdpi/play_arrow_white.png"
+    },
+    {
+        "merged": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-merged_res-5:/drawable-ldpi_ic_exit_to_app_24dp.png.flat",
+        "source": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-pngs-1:/drawable-ldpi/ic_exit_to_app_24dp.png"
+    },
+    {
+        "merged": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-merged_res-5:/drawable-hdpi_email_small.png.flat",
+        "source": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-pngs-1:/drawable-hdpi/email_small.png"
+    },
+    {
+        "merged": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-merged_res-5:/drawable-xhdpi_search_white_thick.png.flat",
+        "source": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-pngs-1:/drawable-xhdpi/search_white_thick.png"
+    },
+    {
+        "merged": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-merged_res-5:/drawable-anydpi-v21_check_black.xml.flat",
+        "source": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-pngs-1:/drawable-anydpi-v21/check_black.xml"
+    },
+    {
+        "merged": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-merged_res-5:/layout_activity_profile.xml.flat",
+        "source": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-main-7:/layout/activity_profile.xml"
+    },
+    {
+        "merged": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-merged_res-5:/layout_activity_add_song_to_playslist.xml.flat",
+        "source": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-main-7:/layout/activity_add_song_to_playslist.xml"
+    },
+    {
+        "merged": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-merged_res-5:/drawable-hdpi_album_white.png.flat",
+        "source": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-pngs-1:/drawable-hdpi/album_white.png"
+    },
+    {
+        "merged": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-merged_res-5:/drawable-mdpi_album_black.png.flat",
+        "source": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-pngs-1:/drawable-mdpi/album_black.png"
+    },
+    {
+        "merged": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-merged_res-5:/drawable-mdpi_ic_exit_to_app_24dp.png.flat",
+        "source": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-pngs-1:/drawable-mdpi/ic_exit_to_app_24dp.png"
+    },
+    {
+        "merged": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-merged_res-5:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-main-7:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-merged_res-5:/drawable-mdpi_person_white.png.flat",
+        "source": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-pngs-1:/drawable-mdpi/person_white.png"
+    },
+    {
+        "merged": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-merged_res-5:/drawable-xxhdpi_add_photo.png.flat",
+        "source": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-pngs-1:/drawable-xxhdpi/add_photo.png"
+    },
+    {
+        "merged": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-merged_res-5:/drawable-xhdpi_lock_black.png.flat",
+        "source": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-pngs-1:/drawable-xhdpi/lock_black.png"
+    },
+    {
+        "merged": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-merged_res-5:/drawable-ldpi_search_white_thick.png.flat",
+        "source": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-pngs-1:/drawable-ldpi/search_white_thick.png"
+    },
+    {
+        "merged": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-merged_res-5:/layout_header_layout.xml.flat",
+        "source": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-main-7:/layout/header_layout.xml"
+    },
+    {
+        "merged": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-merged_res-5:/drawable-xxhdpi_album_black.png.flat",
+        "source": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-pngs-1:/drawable-xxhdpi/album_black.png"
+    },
+    {
+        "merged": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-merged_res-5:/drawable-anydpi-v21_arrow_back.xml.flat",
+        "source": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-pngs-1:/drawable-anydpi-v21/arrow_back.xml"
+    },
+    {
+        "merged": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-merged_res-5:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-main-7:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-merged_res-5:/drawable-xhdpi_music_queue_white.png.flat",
+        "source": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-pngs-1:/drawable-xhdpi/music_queue_white.png"
+    },
+    {
+        "merged": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-merged_res-5:/drawable-xhdpi_add_photo.png.flat",
+        "source": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-pngs-1:/drawable-xhdpi/add_photo.png"
+    },
+    {
+        "merged": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-merged_res-5:/drawable-mdpi_cloud_upload_white.png.flat",
+        "source": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-pngs-1:/drawable-mdpi/cloud_upload_white.png"
+    },
+    {
+        "merged": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-merged_res-5:/drawable-xxhdpi_ic_exit_to_app_24dp.png.flat",
+        "source": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-pngs-1:/drawable-xxhdpi/ic_exit_to_app_24dp.png"
+    },
+    {
+        "merged": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-merged_res-5:/drawable-mdpi_share_button.png.flat",
+        "source": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-pngs-1:/drawable-mdpi/share_button.png"
+    },
+    {
+        "merged": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-merged_res-5:/drawable_rounded_edit.xml.flat",
+        "source": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-main-7:/drawable/rounded_edit.xml"
+    },
+    {
+        "merged": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-merged_res-5:/drawable-xhdpi_person_white.png.flat",
+        "source": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-pngs-1:/drawable-xhdpi/person_white.png"
+    },
+    {
+        "merged": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-merged_res-5:/drawable-xxxhdpi_person_white.png.flat",
+        "source": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-pngs-1:/drawable-xxxhdpi/person_white.png"
+    },
+    {
+        "merged": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-merged_res-5:/drawable-ldpi_person_white.png.flat",
+        "source": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-pngs-1:/drawable-ldpi/person_white.png"
+    },
+    {
+        "merged": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-merged_res-5:/drawable-anydpi-v21_edit_pen_white.xml.flat",
+        "source": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-pngs-1:/drawable-anydpi-v21/edit_pen_white.xml"
+    },
+    {
+        "merged": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-merged_res-5:/drawable-ldpi_lock_black.png.flat",
+        "source": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-pngs-1:/drawable-ldpi/lock_black.png"
+    },
+    {
+        "merged": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-merged_res-5:/drawable-anydpi-v21_ic_exit_to_app_24dp.xml.flat",
+        "source": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-pngs-1:/drawable-anydpi-v21/ic_exit_to_app_24dp.xml"
+    },
+    {
+        "merged": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-merged_res-5:/drawable-xhdpi_vert_three_dot.png.flat",
+        "source": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-pngs-1:/drawable-xhdpi/vert_three_dot.png"
+    },
+    {
+        "merged": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-merged_res-5:/drawable-xxxhdpi_music_queue_white.png.flat",
+        "source": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-pngs-1:/drawable-xxxhdpi/music_queue_white.png"
+    },
+    {
+        "merged": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-merged_res-5:/drawable-xxxhdpi_music_note.png.flat",
+        "source": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-pngs-1:/drawable-xxxhdpi/music_note.png"
+    },
+    {
+        "merged": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-merged_res-5:/drawable-ldpi_share_button.png.flat",
+        "source": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-pngs-1:/drawable-ldpi/share_button.png"
+    },
+    {
+        "merged": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-merged_res-5:/drawable-anydpi-v21_app_laucher_bg.xml.flat",
+        "source": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-pngs-1:/drawable-anydpi-v21/app_laucher_bg.xml"
+    },
+    {
+        "merged": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-merged_res-5:/drawable-anydpi-v21_music_note.xml.flat",
+        "source": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-pngs-1:/drawable-anydpi-v21/music_note.xml"
+    },
+    {
+        "merged": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-merged_res-5:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-main-7:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-merged_res-5:/drawable-mdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-pngs-1:/drawable-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-merged_res-5:/drawable-hdpi_vert_three_dot.png.flat",
+        "source": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-pngs-1:/drawable-hdpi/vert_three_dot.png"
+    },
+    {
+        "merged": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-merged_res-5:/drawable-hdpi_music_library.png.flat",
+        "source": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-pngs-1:/drawable-hdpi/music_library.png"
+    },
+    {
+        "merged": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-merged_res-5:/drawable-anydpi-v21_cloud_upload_white.xml.flat",
+        "source": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-pngs-1:/drawable-anydpi-v21/cloud_upload_white.xml"
+    },
+    {
+        "merged": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-merged_res-5:/drawable-xhdpi_album_black.png.flat",
+        "source": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-pngs-1:/drawable-xhdpi/album_black.png"
+    },
+    {
+        "merged": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-merged_res-5:/drawable-xxhdpi_play_arrow_white.png.flat",
+        "source": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-pngs-1:/drawable-xxhdpi/play_arrow_white.png"
+    },
+    {
+        "merged": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-merged_res-5:/drawable-hdpi_add_photo.png.flat",
+        "source": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-pngs-1:/drawable-hdpi/add_photo.png"
+    },
+    {
+        "merged": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-merged_res-5:/drawable-xxxhdpi_ic_exit_to_app_24dp.png.flat",
+        "source": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-pngs-1:/drawable-xxxhdpi/ic_exit_to_app_24dp.png"
+    },
+    {
+        "merged": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-merged_res-5:/font_bold.ttf.flat",
+        "source": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-main-7:/font/bold.ttf"
+    },
+    {
+        "merged": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-merged_res-5:/drawable-xxhdpi_share_button.png.flat",
+        "source": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-pngs-1:/drawable-xxhdpi/share_button.png"
+    },
+    {
+        "merged": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-merged_res-5:/drawable-hdpi_check_black.png.flat",
+        "source": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-pngs-1:/drawable-hdpi/check_black.png"
+    },
+    {
+        "merged": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-merged_res-5:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-main-7:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-merged_res-5:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-main-7:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-merged_res-5:/drawable-xxxhdpi_edit_pen_white.png.flat",
+        "source": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-pngs-1:/drawable-xxxhdpi/edit_pen_white.png"
+    },
+    {
+        "merged": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-merged_res-5:/drawable-xxhdpi_add.png.flat",
+        "source": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-pngs-1:/drawable-xxhdpi/add.png"
+    },
+    {
+        "merged": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-merged_res-5:/drawable-xxxhdpi_app_laucher_bg.png.flat",
+        "source": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-pngs-1:/drawable-xxxhdpi/app_laucher_bg.png"
+    },
+    {
+        "merged": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-merged_res-5:/menu_app_menu.xml.flat",
+        "source": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-main-7:/menu/app_menu.xml"
+    },
+    {
+        "merged": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-merged_res-5:/drawable-xhdpi_music_note.png.flat",
+        "source": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-pngs-1:/drawable-xhdpi/music_note.png"
+    },
+    {
+        "merged": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-merged_res-5:/drawable-ldpi_check_black.png.flat",
+        "source": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-pngs-1:/drawable-ldpi/check_black.png"
+    },
+    {
+        "merged": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-merged_res-5:/drawable-xxhdpi_edit_pen_white.png.flat",
+        "source": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-pngs-1:/drawable-xxhdpi/edit_pen_white.png"
+    },
+    {
+        "merged": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-merged_res-5:/drawable-hdpi_share_button.png.flat",
+        "source": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-pngs-1:/drawable-hdpi/share_button.png"
+    },
+    {
+        "merged": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-merged_res-5:/drawable-xxhdpi_app_laucher_bg.png.flat",
+        "source": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-pngs-1:/drawable-xxhdpi/app_laucher_bg.png"
+    },
+    {
+        "merged": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-merged_res-5:/drawable-xhdpi_arrow_back.png.flat",
+        "source": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-pngs-1:/drawable-xhdpi/arrow_back.png"
+    },
+    {
+        "merged": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-merged_res-5:/drawable-ldpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-pngs-1:/drawable-ldpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-merged_res-5:/drawable-anydpi-v21_add.xml.flat",
+        "source": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-pngs-1:/drawable-anydpi-v21/add.xml"
+    },
+    {
+        "merged": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-merged_res-5:/drawable-ldpi_play_arrow_white.png.flat",
+        "source": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-pngs-1:/drawable-ldpi/play_arrow_white.png"
+    },
+    {
+        "merged": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-merged_res-5:/drawable-xxhdpi_email_small.png.flat",
+        "source": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-pngs-1:/drawable-xxhdpi/email_small.png"
+    },
+    {
+        "merged": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-merged_res-5:/drawable-ldpi_cloud_upload_white.png.flat",
+        "source": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-pngs-1:/drawable-ldpi/cloud_upload_white.png"
+    },
+    {
+        "merged": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-merged_res-5:/drawable-anydpi-v21_lock_black.xml.flat",
+        "source": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-pngs-1:/drawable-anydpi-v21/lock_black.xml"
+    },
+    {
+        "merged": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-merged_res-5:/drawable-hdpi_add.png.flat",
+        "source": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-pngs-1:/drawable-hdpi/add.png"
+    },
+    {
+        "merged": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-merged_res-5:/drawable_name.png.flat",
+        "source": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-main-7:/drawable/name.png"
+    },
+    {
+        "merged": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-merged_res-5:/drawable-xhdpi_add.png.flat",
+        "source": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-pngs-1:/drawable-xhdpi/add.png"
+    },
+    {
+        "merged": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-merged_res-5:/layout_activity_popular_songs.xml.flat",
+        "source": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-main-7:/layout/activity_popular_songs.xml"
+    },
+    {
+        "merged": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-merged_res-5:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-main-7:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-merged_res-5:/layout_activity_login.xml.flat",
+        "source": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-main-7:/layout/activity_login.xml"
+    },
+    {
+        "merged": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-merged_res-5:/drawable-xxhdpi_cloud_upload_white.png.flat",
+        "source": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-pngs-1:/drawable-xxhdpi/cloud_upload_white.png"
+    },
+    {
+        "merged": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-merged_res-5:/drawable-hdpi_person_white.png.flat",
+        "source": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-pngs-1:/drawable-hdpi/person_white.png"
+    },
+    {
+        "merged": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-merged_res-5:/drawable-ldpi_music_queue_white.png.flat",
+        "source": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-pngs-1:/drawable-ldpi/music_queue_white.png"
+    },
+    {
+        "merged": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-merged_res-5:/drawable_rounded_button.xml.flat",
+        "source": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-main-7:/drawable/rounded_button.xml"
+    },
+    {
+        "merged": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-merged_res-5:/drawable-anydpi-v21_music_queue_white.xml.flat",
+        "source": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-pngs-1:/drawable-anydpi-v21/music_queue_white.xml"
+    },
+    {
+        "merged": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-merged_res-5:/drawable-xxhdpi_person_white.png.flat",
+        "source": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-pngs-1:/drawable-xxhdpi/person_white.png"
+    },
+    {
+        "merged": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-merged_res-5:/layout_activity_forget_password.xml.flat",
+        "source": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-main-7:/layout/activity_forget_password.xml"
+    },
+    {
+        "merged": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-merged_res-5:/drawable-ldpi_vert_three_dot.png.flat",
+        "source": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-pngs-1:/drawable-ldpi/vert_three_dot.png"
+    },
+    {
+        "merged": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-merged_res-5:/drawable_matriix.png.flat",
+        "source": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-main-7:/drawable/matriix.png"
+    },
+    {
+        "merged": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-merged_res-5:/drawable_gradient.xml.flat",
+        "source": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-main-7:/drawable/gradient.xml"
+    },
+    {
+        "merged": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-merged_res-5:/drawable-anydpi-v21_music_library.xml.flat",
+        "source": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-pngs-1:/drawable-anydpi-v21/music_library.xml"
+    },
+    {
+        "merged": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-merged_res-5:/drawable-anydpi-v21_search_white_thick.xml.flat",
+        "source": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-pngs-1:/drawable-anydpi-v21/search_white_thick.xml"
+    },
+    {
+        "merged": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-merged_res-5:/drawable-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-pngs-1:/drawable-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-merged_res-5:/drawable-anydpi-v21_person_white.xml.flat",
+        "source": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-pngs-1:/drawable-anydpi-v21/person_white.xml"
+    },
+    {
+        "merged": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-merged_res-5:/drawable-xxxhdpi_play_arrow_white.png.flat",
+        "source": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-pngs-1:/drawable-xxxhdpi/play_arrow_white.png"
+    },
+    {
+        "merged": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-merged_res-5:/drawable-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-pngs-1:/drawable-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-merged_res-5:/layout_activity_playlist_screen.xml.flat",
+        "source": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-main-7:/layout/activity_playlist_screen.xml"
+    },
+    {
+        "merged": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-merged_res-5:/layout_activity_music.xml.flat",
+        "source": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-main-7:/layout/activity_music.xml"
+    },
+    {
+        "merged": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-merged_res-5:/drawable-xhdpi_app_laucher_bg.png.flat",
+        "source": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-pngs-1:/drawable-xhdpi/app_laucher_bg.png"
+    },
+    {
+        "merged": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-merged_res-5:/drawable-xhdpi_cloud_upload_white.png.flat",
+        "source": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-pngs-1:/drawable-xhdpi/cloud_upload_white.png"
+    },
+    {
+        "merged": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-merged_res-5:/drawable-xhdpi_edit_pen_white.png.flat",
+        "source": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-pngs-1:/drawable-xhdpi/edit_pen_white.png"
+    },
+    {
+        "merged": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-merged_res-5:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-main-7:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-merged_res-5:/drawable-ldpi_arrow_back.png.flat",
+        "source": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-pngs-1:/drawable-ldpi/arrow_back.png"
+    },
+    {
+        "merged": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-merged_res-5:/drawable-anydpi-v21_vert_three_dot.xml.flat",
+        "source": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-pngs-1:/drawable-anydpi-v21/vert_three_dot.xml"
+    },
+    {
+        "merged": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-merged_res-5:/drawable-hdpi_music_queue_white.png.flat",
+        "source": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-pngs-1:/drawable-hdpi/music_queue_white.png"
+    },
+    {
+        "merged": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-merged_res-5:/drawable-ldpi_add.png.flat",
+        "source": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-pngs-1:/drawable-ldpi/add.png"
+    },
+    {
+        "merged": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-merged_res-5:/drawable-anydpi-v21_share_button.xml.flat",
+        "source": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-pngs-1:/drawable-anydpi-v21/share_button.xml"
+    },
+    {
+        "merged": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-merged_res-5:/drawable-xhdpi_album_white.png.flat",
+        "source": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-pngs-1:/drawable-xhdpi/album_white.png"
+    },
+    {
+        "merged": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-merged_res-5:/drawable-xhdpi_music_library.png.flat",
+        "source": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-pngs-1:/drawable-xhdpi/music_library.png"
+    },
+    {
+        "merged": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-merged_res-5:/drawable-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-pngs-1:/drawable-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-merged_res-5:/drawable-xxxhdpi_cloud_upload_white.png.flat",
+        "source": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-pngs-1:/drawable-xxxhdpi/cloud_upload_white.png"
+    },
+    {
+        "merged": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-merged_res-5:/drawable_e1.png.flat",
+        "source": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-main-7:/drawable/e1.png"
+    },
+    {
+        "merged": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-merged_res-5:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-main-7:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-merged_res-5:/drawable-xhdpi_check_black.png.flat",
+        "source": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-pngs-1:/drawable-xhdpi/check_black.png"
+    },
+    {
+        "merged": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-merged_res-5:/drawable-xhdpi_email_small.png.flat",
+        "source": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-pngs-1:/drawable-xhdpi/email_small.png"
+    },
+    {
+        "merged": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-merged_res-5:/drawable-xxxhdpi_album_black.png.flat",
+        "source": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-pngs-1:/drawable-xxxhdpi/album_black.png"
+    },
+    {
+        "merged": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-merged_res-5:/drawable-mdpi_vert_three_dot.png.flat",
+        "source": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-pngs-1:/drawable-mdpi/vert_three_dot.png"
+    },
+    {
+        "merged": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-merged_res-5:/drawable-xxhdpi_search_white_thick.png.flat",
+        "source": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-pngs-1:/drawable-xxhdpi/search_white_thick.png"
+    },
+    {
+        "merged": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-merged_res-5:/drawable-xxxhdpi_arrow_back.png.flat",
+        "source": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-pngs-1:/drawable-xxxhdpi/arrow_back.png"
+    },
+    {
+        "merged": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-merged_res-5:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-pngs-1:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-merged_res-5:/drawable-xxxhdpi_add_photo.png.flat",
+        "source": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-pngs-1:/drawable-xxxhdpi/add_photo.png"
+    },
+    {
+        "merged": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-merged_res-5:/layout_songs_list_layout2.xml.flat",
+        "source": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-main-7:/layout/songs_list_layout2.xml"
+    },
+    {
+        "merged": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-merged_res-5:/drawable-xhdpi_play_arrow_white.png.flat",
+        "source": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-pngs-1:/drawable-xhdpi/play_arrow_white.png"
+    },
+    {
+        "merged": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-merged_res-5:/menu_nav_menu.xml.flat",
+        "source": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-main-7:/menu/nav_menu.xml"
+    },
+    {
+        "merged": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-merged_res-5:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-main-7:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-merged_res-5:/drawable-xxxhdpi_music_library.png.flat",
+        "source": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/daemon/8.0/com.matrix.music.app-pngs-1:/drawable-xxxhdpi/music_library.png"
+    }
+]

@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.matrix.music.app-mergeDebugResources-3:/values-hdpi-v4/values-hdpi-v4.xml",
+            "map": [
+                {
+                    "source": "/Users/shreechandansahu/Downloads/FirebaseAuthLoginRegisterMVVM-master/gradle/caches/transforms-3/9b45622e897567cad57bb6b011749cf2/transformed/appcompat-1.6.1/res/values-hdpi-v4/values-hdpi-v4.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "13",
+                        "endOffsets": "327"
+                    }
+                }
+            ]
+        }
+    ]
+}
